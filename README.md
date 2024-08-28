@@ -14,8 +14,6 @@ With the right inputs, applying these simple rules can have remarkable consequen
 
 ![](assets/Glider.gif)
 
-Your job will be to implement the Life class. Life makes use of a few concepts, such as maintaining a dynamic array, using a flat array to represent a 2D array, as well as implementing the "rule of three" methods: copy constructor, assignment operator and destructor.
-
 ## This Project Requires a Lot of Console Space
 
 Be sure to stretch your console window side-to-side if necessary, and use (cmd or cntrl) + the minus key to zoom out your browser window.
