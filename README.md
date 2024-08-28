@@ -8,11 +8,7 @@ In this project, we'll develop an implementation of Conway's Game of Life.
 
 The Game of Life simulation operates on a grid of squares (cells) where each cell can be alive or dead, and evolves in steps from generation to generation, following a set of simple rules based on the number of living neighbors a cell has.
 
-![](assets/gameofliferules2.png)
-
 With the right inputs, applying these simple rules can have remarkable consequences. Here, for example, is a "glider", a stable object that migrates across the grid.
-
-![](assets/Glider.gif)
 
 ## This Project Requires a Lot of Console Space
 
